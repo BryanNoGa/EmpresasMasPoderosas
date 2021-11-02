@@ -1,0 +1,8 @@
+Apple Inc;Estados Unidos;Tecnologia,Hardaware;2035;147000
+Facebook Inc;Estados Unidos;Servicios y medios interactivos;733;52534
+Microsoft Corp;Estados Unidos;Tecnología, Software;1752;168263
+Samsung;Corea del Sur;Tecnología, Hardware;439;548000
+Amazon.Com Inc;Estados Unidos;Comercio Minorista de Internet;1557;1300000
+Alphabet Inc;Estados Unidos;Servicios y medios interactivos;1368;135000
+Tesla Inc;Estados Unidos;Automoviles;648;48016
+Tencent;China;Servicios y medios interactivos;819;85858
